@@ -3,7 +3,7 @@ RTMake(1.0) Doc
 
 一个自动化编译工具，带有自动释放，免去手动释放
 
-编译方法(Linux CUI)
+### 编译方法(Linux CUI)
 - 运行run.sh
 
 ### 使用方法(Linux CUI)
