@@ -14,8 +14,8 @@ RTMake(1.5) Doc
 
 ### 编译方法(Linux CUI)
 - 下载本人的MArrayList、MultitThreadMemoryManager并放在根目录
-- 运行run.sh
-
+- 运行run.sh或者预编译的二进制文件
+- 
 ### 使用方法(Linux CUI)
 - 创建 library 文件夹(无library请忽略)
     - 进入 library 文件夹
